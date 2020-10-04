@@ -20,16 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e08d007c-7789-4dc4-8157-8471fbe59e86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/complexityCounter.go" beforeDir="false" afterPath="$PROJECT_DIR$/complexityCounter.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/complexityCounter_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/complexityCounter_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exportCsv.go" beforeDir="false" afterPath="$PROJECT_DIR$/exportCsv.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exportCsv_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/exportCsv_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getFilePathsForDirectory_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/getFilePathsForDirectory_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printFileInfo.go" beforeDir="false" afterPath="$PROJECT_DIR$/printFileInfo.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +116,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update the default extensions regex to make sure the file extensions are on the end" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update the default extensions regex to make sure the file extensions are on the end" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="184" y="123" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601797486431">
       <screen x="0" y="23" width="1440" height="877" />
@@ -141,22 +137,22 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="349" y="133" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.877@0.23.1440.877" timestamp="1601785250704" />
-    <state width="1398" height="217" key="GridCell.Tab.0.bottom" timestamp="1601812695480">
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom" timestamp="1601812798877">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601812695480" />
-    <state width="1398" height="217" key="GridCell.Tab.0.center" timestamp="1601812695480">
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601812798877" />
+    <state width="1398" height="217" key="GridCell.Tab.0.center" timestamp="1601812798875">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601812695480" />
-    <state width="1398" height="217" key="GridCell.Tab.0.left" timestamp="1601812695480">
+    <state width="1398" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601812798875" />
+    <state width="1398" height="217" key="GridCell.Tab.0.left" timestamp="1601812798874">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601812695480" />
-    <state width="1398" height="217" key="GridCell.Tab.0.right" timestamp="1601812695480">
+    <state width="1398" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601812798874" />
+    <state width="1398" height="217" key="GridCell.Tab.0.right" timestamp="1601812798877">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601812695480" />
+    <state width="1398" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601812798877" />
     <state width="1358" height="270" key="GridCell.Tab.1.bottom" timestamp="1601792742193">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
