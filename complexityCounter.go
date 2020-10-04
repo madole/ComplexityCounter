@@ -14,7 +14,7 @@ type FileInfo struct {
 	Complexity int    `json:"complexity"`
 }
 
-var codeBranchIdentifierRegex = "(?P<ifStatements>if.*\\{)| (?P<logicalOR>\\|\\|) | (?P<logicalAND>\\&\\&) | (?P<nullishCoalescing>\\?\\?) | (?P<switchCases>case+s?.*) | (?P<optionalChaining>\\?\\..*) | (?P<ternary> .+\\?.+\\:.+)"
+var codeBranchIdentifierRegex = "(?P<ifStatements>if.*\\{)|(?P<logicalOR>\\|\\|)|(?P<logicalAND>\\&\\&)|(?P<nullishCoalescing>\\?\\?)|(?P<switchCases>case+s?.*)|(?P<optionalChaining>\\?\\..*)|(?P<ternary> .+\\?.+\\:.+)"
 
 func complexityCounter(filepath string) (fileInfo FileInfo) {
 	r, _ := os.Open(filepath)
