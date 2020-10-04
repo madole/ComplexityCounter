@@ -32,6 +32,7 @@ func main() {
 		}
 		files = append(files, fileInfo)
 
-		printFileInfo(fileInfo)
+		//printFileInfo(fileInfo)
 	}
+	exportCsv(files, "./output.csv")
 }
