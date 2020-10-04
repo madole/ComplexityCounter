@@ -39,5 +39,7 @@ func main() {
 		exportCsv(files, "./output.csv")
 	} else if outputType == "json" {
 		exportJson(files, "./output.json")
+	} else {
+		panic("Output type must be csv or json")
 	}
 }

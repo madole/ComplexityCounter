@@ -14,7 +14,7 @@ func Test_exportJson(t *testing.T) {
 		654,
 	}
 
-	filesInfo := FilesInfo {
+	filesInfo := FilesInfo{
 		fileInfo,
 	}
 	exportJson(filesInfo, filePath)

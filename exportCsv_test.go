@@ -23,7 +23,7 @@ func Test_exportCsv(t *testing.T) {
 		654,
 	}
 
-	filesInfo := FilesInfo {
+	filesInfo := FilesInfo{
 		fileInfo,
 	}
 
