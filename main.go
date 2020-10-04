@@ -29,6 +29,7 @@ func main() {
 	for _, file := range filePaths {
 		fileInfo := complexityCounter(file)
 		files = append(files, fileInfo)
+		printFileInfo(fileInfo)
 	}
 
 	if outputType == "csv" {
