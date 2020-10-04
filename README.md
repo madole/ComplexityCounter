@@ -26,7 +26,7 @@ Features:
 
 `-exclusionsRegex __tests__`
 - Match on any files you don't want included
-- Defaults to `"(__tests__|test\\.(js|ts|jsx|tsx))|__snapshots__"`
+- Defaults to `"(__snapshots__|__tests__|test\\.(js|ts|jsx|tsx))"`
 
 `-outputType json`
 - Specify `json` or `csv` as an output type
