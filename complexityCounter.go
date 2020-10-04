@@ -8,10 +8,10 @@ import (
 )
 
 type FileInfo struct {
-	filepath   string
-	lineCount  int
-	codeLines  int
-	complexity int
+	Filepath   string `json:"filepath"`
+	LineCount  int    `json:"lineCount"`
+	CodeLines  int    `json:"codeLines"`
+	Complexity int    `json:"complexity"`
 }
 
 var codeBranchIdentifierRegex = "(?P<ifStatements>if\\s?\\()| (?P<logicalOR>\\|\\|) | (?P<logicalAND>\\&\\&) | (?P<nullishCoalescing>\\?\\?) | (?P<switchCases>case+s?.*) | (?P<optionalChaining>\\?\\..*) | (?P<ternary> .+\\?.+\\:.+)"

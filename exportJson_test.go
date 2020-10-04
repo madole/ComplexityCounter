@@ -5,17 +5,8 @@ import (
 	"testing"
 )
 
-func fileExists(name string) bool {
-	if _, err := os.Stat(name); err != nil {
-		if os.IsNotExist(err) {
-			return false
-		}
-	}
-	return true
-}
-
-func Test_exportCsv(t *testing.T) {
-	filePath := "./test.csv"
+func Test_exportJson(t *testing.T) {
+	filePath := "./test.json"
 	fileInfo := FileInfo{
 		"./abc.js",
 		123,
@@ -26,8 +17,7 @@ func Test_exportCsv(t *testing.T) {
 	filesInfo := FilesInfo {
 		fileInfo,
 	}
-
-	exportCsv(filesInfo, filePath)
+	exportJson(filesInfo, filePath)
 
 	if fileExists(filePath) == false {
 		t.Error("Should have printed out file")

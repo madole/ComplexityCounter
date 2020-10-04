@@ -12,7 +12,7 @@ func exportCsv(filesInfo []FileInfo, outputFilepath string) {
 	csvOutput := strings.Join(headers, ",")
 	for _, fileInfo := range filesInfo {
 		csvLine := "\n"
-		csvLineData := []string{fileInfo.filepath, strconv.Itoa(fileInfo.lineCount), strconv.Itoa(fileInfo.codeLines), strconv.Itoa(fileInfo.complexity)}
+		csvLineData := []string{fileInfo.Filepath, strconv.Itoa(fileInfo.LineCount), strconv.Itoa(fileInfo.CodeLines), strconv.Itoa(fileInfo.Complexity)}
 		csvLine += strings.Join(csvLineData, ",")
 		csvOutput += csvLine
 	}

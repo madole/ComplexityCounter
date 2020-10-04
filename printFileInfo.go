@@ -1,11 +1,11 @@
 package main
 
 func printFileInfo(fileInfo FileInfo) {
-	println(fileInfo.filepath)
+	println(fileInfo.Filepath)
 	print("line count: ")
-	println(fileInfo.lineCount)
+	println(fileInfo.LineCount)
 	print("code lines: ")
-	println(fileInfo.codeLines)
+	println(fileInfo.CodeLines)
 	print("complexity: ")
-	println(fileInfo.complexity)
+	println(fileInfo.Complexity)
 }
