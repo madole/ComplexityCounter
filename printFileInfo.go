@@ -1,5 +1,8 @@
 package main
 
+/**
+* DEBUG FUNCTION
+**/
 func printFileInfo(fileInfo FileInfo) {
 	println(fileInfo.Filepath)
 	print("line count: ")

@@ -4,8 +4,6 @@ import (
 	"flag"
 )
 
-var extensionsRegex string
-
 type FilesInfo []FileInfo
 
 func initFlags() (string, string, string, string) {
