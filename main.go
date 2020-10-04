@@ -32,8 +32,6 @@ func main() {
 			panic(err)
 		}
 		files = append(files, fileInfo)
-
-		//printFileInfo(fileInfo)
 	}
 
 	if outputType == "csv" {
