@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e08d007c-7789-4dc4-8157-8471fbe59e86" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.2/libexec" />
+  <component name="ProjectId" id="1iOhYyr0iQ0zNMXDCogkN6ukoJC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+  </component>
+  <component name="RecentsManager">
+    <key name="GoMoveDeclarationDialog.RECENT_KEY">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.go test ComplexityCounter">
+    <configuration name="go build " type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="ComplexityCounter" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-directory $USER_HOME$/Code/Propeller/visualiser/app" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test ComplexityCounter" type="GoTestRunConfiguration" factoryName="Go Test" nameIsGenerated="true">
+      <module name="ComplexityCounter" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build " />
+      <item itemvalue="Go Test.go test ComplexityCounter" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build " />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e08d007c-7789-4dc4-8157-8471fbe59e86" name="Default Changelist" comment="" />
+      <created>1601784596528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601784596528</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="123" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601797486431">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="123" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1601797486431" />
+    <state x="507" y="209" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1601796868391">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="507" y="209" key="#com.intellij.ide.macro.MacrosDialog/0.23.1440.877@0.23.1440.877" timestamp="1601796868391" />
+    <state x="349" y="133" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1601785250704">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="349" y="133" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.877@0.23.1440.877" timestamp="1601785250704" />
+    <state width="1358" height="217" key="GridCell.Tab.0.bottom" timestamp="1601797320690">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601797320690" />
+    <state width="1358" height="217" key="GridCell.Tab.0.center" timestamp="1601797320689">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601797320689" />
+    <state width="1358" height="217" key="GridCell.Tab.0.left" timestamp="1601797320689">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601797320689" />
+    <state width="1358" height="217" key="GridCell.Tab.0.right" timestamp="1601797320689">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601797320689" />
+    <state width="1358" height="270" key="GridCell.Tab.1.bottom" timestamp="1601792742193">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="270" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601792742193" />
+    <state width="1358" height="270" key="GridCell.Tab.1.center" timestamp="1601792742192">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="270" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1601792742192" />
+    <state width="1358" height="270" key="GridCell.Tab.1.left" timestamp="1601792742192">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="270" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1601792742192" />
+    <state width="1358" height="270" key="GridCell.Tab.1.right" timestamp="1601792742192">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="270" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1601792742192" />
+    <state x="221" y="100" key="SettingsEditor" timestamp="1601785435316">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1601785435316" />
+    <state x="496" y="295" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1601794023128">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="496" y="295" key="com.goide.refactor.move.GoMoveDeclarationDialog/0.23.1440.877@0.23.1440.877" timestamp="1601794023128" />
+    <state x="421" y="94" width="598" height="735" key="find.popup" timestamp="1601790250861">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="421" y="94" width="598" height="735" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1601790250861" />
+    <state x="563" y="235" key="refactoring.ChangeSignatureDialog" timestamp="1601795104990">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="563" y="235" key="refactoring.ChangeSignatureDialog/0.23.1440.877@0.23.1440.877" timestamp="1601795104990" />
+    <state x="385" y="223" width="670" height="676" key="search.everywhere.popup" timestamp="1601785427687">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="223" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1601785427687" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ComplexityCounter$complexityCounter_test_go.out" NAME="complexityCounter_test.go Coverage Results" MODIFIED="1601792721391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ComplexityCounter$TestComplexityCounter_in_complexityCounter_test_go.out" NAME="TestComplexityCounter in complexityCounter_test.go Coverage Results" MODIFIED="1601792712525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
