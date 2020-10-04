@@ -3,7 +3,7 @@
 A tool to crudely calculate code complexity per file. 
 
 ## Assumptions
-I'm calculating complexity here assuming code features which result in code branches increase complexity by one point.
+I'm calculating complexity assuming code features which result in code branches increase complexity by one point.
 
 Features:
 -  if statements
